@@ -14,8 +14,8 @@ body {
 
 .computer-monitor {
   margin: 0 auto;
-  height: 540px;
-  width: 960px;
+  height: 630px;
+  width: 1050px;
   background-color: #37474F;
   border: 20px solid #546E7A;
   border-top-right-radius: 2rem;
@@ -29,8 +29,8 @@ body {
   margin: 0 auto;
   border-bottom-right-radius: 2rem;
   border-bottom-left-radius: 2rem;
-  width: 960px;
-  height: 100px;
+  width: 1050px;
+  height: 190px;
   background-color: #F5F5F5;
 }
 
@@ -39,8 +39,8 @@ body {
   position: relative;
   z-index: 0;
   margin: 0 auto;
-  height: 75px;
-  width: 200px;
+  height: 165px;
+  width: 290px;
   background-color: #EEEEEE;
   -webkit-clip-path: polygon(5% 0%, 95% 0%, 100% 100%, 0% 100%);
           clip-path: polygon(5% 0%, 95% 0%, 100% 100%, 0% 100%);
@@ -49,8 +49,8 @@ body {
 .computer-stand-bottom {
   box-shadow: 5px 5px 11px rgba(0, 0, 0, 0.25);
   margin: 0 auto;
-  height: 25px;
-  width: 250px;
+  height: 115px;
+  width: 350px;
   background-color: #F5F5F5;
   border-top-right-radius: 2rem;
   border-top-left-radius: 2rem;
